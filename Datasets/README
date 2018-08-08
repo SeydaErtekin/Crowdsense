@@ -1,0 +1,1 @@
+This repository includes the datasets used in CrowdSense experiments. In the files, each row represents an example and each column represents a unique labeler. The values {1,-1} indicate the labelers' votes for examples.
